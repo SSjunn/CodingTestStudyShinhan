@@ -14,6 +14,7 @@
 | 25.12.25 | 순열과조합 | [N과 M (2)](https://www.acmicpc.net/problem/15650)   | 실버3  |  |
 | 25.12.26 | DFS | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) <br> [타켓넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  | 실버2 <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/>  |  |
 | 25.12.27 | BFS | [DFS와 BFS](https://www.acmicpc.net/problem/1260) <br> [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  | 실버2 <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/>  |  |
+| 25.12.29 | 이진탐색 | [수 찾기](https://www.acmicpc.net/problem/1920) <br> [게임](https://www.acmicpc.net/problem/1072) <br>[순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)  | 실버4 <br> 실버3 <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/>  |  |
 
 ## 📅진도
 
