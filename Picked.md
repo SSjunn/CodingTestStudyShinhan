@@ -1,3 +1,30 @@
+## 📅진도
+
+### 2026/1월
+
+| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
+| --- | --- | --- | --- | ----- | --- | --- |
+|     |     |     |     | 1<br>  | 2 <br>   | 3 <br>  |
+| 4 <br>  | 5  <br> | 6 <br> 트리  | 7 <br> 동적계획법 | 8 <br> 백트래킹 | 9<br> 💻✍   | 10 <br> |
+| 11 <br>  | 12 <br> [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | 13 <br> | 14 <br> 💻✍🏼 | 15 <br>   | 16 <br>  | 17 <br> |
+| 18 <br> | 19 <br> | 20 <br> | 21 <br>💻✍🏼| 22 <br>  | 23 <br> | 24 <br>  |
+| 25 <br> | 26 <br> | 28 <br> | 29 <br>💻✍🏼  | 30 <br>   | 31 <br>    |     |
+
+### 2025/12월
+
+| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
+| --- | --- | --- | --- | ----- | --- | --- |
+|     |     |     |     | 4<br> 배열 | 5 <br> 배열 응용  | 6 <br>  |
+| 7 <br>  | 8  <br>해시 | 9 <br>스택   | 10 <br>💻✍🏼 | 11 <br>  큐  | 12<br> 재귀  | 13 <br> 정렬|
+| 14 <br>  | 15 <br> 정렬 | 16 <br> 완전탐색| 17 <br> 💻✍🏼 | 18 <br> 그리디  | 19 <br> 수학 | 20 <br> |
+| 21 <br> | 22 <br> | 23 <br> | 24 <br>💻✍🏼| 25<br>조합순열  | 26 <br>DFS | 27 <br> BFS |
+| 28 <br> | 29 <br>이진탐색 | 30 <br>다익스트라 | 31 <br>💻✍🏼  |       |     |     |
+
+
+---
+
+## 알고리즘별 문제 풀이(2025.12~2026.01)
+
 | 날짜 | 문제 유형 | 문제 | 난이도 | 발표 선정 문제 |
 |:---:|:---:|:---|:---|:---:|
 | 25.12.03 | 문자열 | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) <br> [문자열 반복](https://www.acmicpc.net/problem/2675) <br> [다이얼](https://www.acmicpc.net/problem/5622) <br> [시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) <br> [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) <br>[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) <br>[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) <br>[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) <br>[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301) <br>[문자열 다루기 기본](https://school.programmers.co.kr/learn/courses/30/lessons/12918) <br>[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) <br>[N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687) <br>| <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> 브론즈2 <br> 브론즈2 <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.1-1185FE?style=plastic"/> <br> <img src="https://img.shields.io/badge/Lv.2-3DA639?style=plastic"/> | <br><br><br><br> |
@@ -19,28 +46,3 @@
 | 26.01.06 | 트리 | [트리의 부모찾기](https://www.acmicpc.net/problem/11725) | 실버2 | O | 
 | 26.01.07 | 동적계획법 | [퇴사](https://www.acmicpc.net/problem/14501) | 실버3 | O |
 | 26.01.08 | 백트래킹 | [N-Queen](https://www.acmicpc.net/problem/9663) | 골드4 | O |
-
-
-## 📅진도
-
-### 12월
-
-| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
-| --- | --- | --- | --- | ----- | --- | --- |
-|     |     |     |     | 4<br> 배열 | 5 <br> 배열 응용  | 6 <br>  |
-| 7 <br>  | 8  <br>해시 | 9 <br>스택   | 10 <br>💻✍🏼 | 11 <br>  큐  | 12<br> 재귀  | 13 <br> 정렬|
-| 14 <br>  | 15 <br> 정렬 | 16 <br> 완전탐색| 17 <br> 💻✍🏼 | 18 <br> 그리디  | 19 <br> 수학 | 20 <br> |
-| 21 <br> | 22 <br> | 23 <br> | 24 <br>💻✍🏼| 25<br>조합순열  | 26 <br>DFS | 27 <br> BFS |
-| 28 <br> | 29 <br>이진탐색 | 30 <br>다익스트라 | 31 <br>💻✍🏼  |       |     |     |
-
-
-### 1월
-
-| Sun | Mon | Tue | Wed | Thu   | Fri | Sat |
-| --- | --- | --- | --- | ----- | --- | --- |
-|     |     |     |     | 1<br>  | 2 <br>   | 3 <br>  |
-| 4 <br>  | 5  <br> | 6 <br> 트리  | 7 <br> 동적계획법 | 8 <br> 백트래킹 | 9<br> 💻✍   | 10 <br> |
-| 11 <br>  | 12 <br> [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)  | 13 <br> | 14 <br> 💻✍🏼 | 15 <br>   | 16 <br>  | 17 <br> |
-| 18 <br> | 19 <br> | 20 <br> | 21 <br>💻✍🏼| 22 <br>  | 23 <br> | 24 <br>  |
-| 25 <br> | 26 <br> | 28 <br> | 29 <br>💻✍🏼  | 30 <br>   | 31 <br>    |     |
-
